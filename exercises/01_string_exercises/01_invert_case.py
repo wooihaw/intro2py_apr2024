@@ -7,3 +7,5 @@
 # aRG!
 # Enter a string: PyThoN
 # pYtHOn
+s = input("Enter a string: ")
+print(s.swapcase())
